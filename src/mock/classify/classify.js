@@ -1026,7 +1026,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        手机数码:[
+        居家清洗:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1048,7 +1048,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        个护电器:[
+        口腔护理:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1070,7 +1070,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        生活电器:[
+        女性护洗:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1092,73 +1092,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        厨房电器:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        "办公/外设":[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        大家电:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        特色专区:[
+        健康护理:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1182,7 +1116,7 @@ let datas = {
         ],
     },
     奢品:{
-        畅销星品:[
+        精选频道:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1204,7 +1138,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        手机数码:[
+        大牌推荐:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1226,7 +1160,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        个护电器:[
+        女包:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1248,7 +1182,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        生活电器:[
+        男包:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1270,7 +1204,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        厨房电器:[
+        女装:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1292,51 +1226,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        "办公/外设":[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        大家电:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        特色专区:[
+        男装:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1360,7 +1250,7 @@ let datas = {
         ],
     },
     服饰鞋靴:{
-        畅销星品:[
+        热卖推荐:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1382,7 +1272,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        手机数码:[
+        时尚新女性:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1404,117 +1294,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        个护电器:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        生活电器:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        厨房电器:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        "办公/外设":[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        大家电:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        特色专区:[
+        潮流新男装:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1560,7 +1340,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        手机数码:[
+        运动鞋服:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1582,7 +1362,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        个护电器:[
+        运动用品:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1604,7 +1384,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        生活电器:[
+        户外装备:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1626,7 +1406,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        厨房电器:[
+        国际大牌:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1648,7 +1428,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        "办公/外设":[
+        国潮盛典:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1670,7 +1450,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        大家电:[
+        时尚背包:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1692,7 +1472,73 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        特色专区:[
+        澳洲雪地靴:[
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+        ],
+        瑜伽美体:[
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+        ],
+        游泳用品:[
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+        ],
+        火机烟具:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1738,7 +1584,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        手机数码:[
+        腕表:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1760,7 +1606,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        个护电器:[
+        时尚饰品:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1782,7 +1628,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        生活电器:[
+        黄金珠宝:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1804,73 +1650,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        厨房电器:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        "办公/外设":[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        大家电:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        特色专区:[
+        眼睛配件:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1894,6 +1674,28 @@ let datas = {
         ],
     },
     家居生活:{
+        热销分类:[
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+        ],
         畅销星品:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
@@ -1916,7 +1718,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        手机数码:[
+        杯具水具:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1938,7 +1740,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        个护电器:[
+        烹饪锅具:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1960,7 +1762,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        生活电器:[
+        刀具菜板:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -1982,7 +1784,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        厨房电器:[
+        餐具:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2004,7 +1806,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        "办公/外设":[
+        家纺布艺:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2026,7 +1828,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        大家电:[
+        生活日用:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2048,7 +1850,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        特色专区:[
+        家居家装:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2094,7 +1896,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        手机数码:[
+        乳品饮料:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2116,7 +1918,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        个护电器:[
+        咖啡冲饮:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2138,7 +1940,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        生活电器:[
+        饼干糕点:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2160,7 +1962,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        厨房电器:[
+        休闲零食:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2182,7 +1984,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        "办公/外设":[
+        茶叶酒水:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2204,29 +2006,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        大家电:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        特色专区:[
+        粮油副食:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2250,7 +2030,7 @@ let datas = {
         ],
     },
     考拉出品:{
-        畅销星品:[
+        美容彩妆:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2272,7 +2052,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        手机数码:[
+        数码家电:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2294,7 +2074,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        个护电器:[
+        个人护洗:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2316,7 +2096,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        生活电器:[
+        家居生活:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2338,7 +2118,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        厨房电器:[
+        环球美食:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2360,7 +2140,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        "办公/外设":[
+        服装鞋靴:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2382,7 +2162,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        大家电:[
+        运动户外:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2404,7 +2184,29 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        特色专区:[
+        箱包配饰:[
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+            {
+                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
+                title:"嘉宝"
+            },
+        ],
+        母婴儿童:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2428,7 +2230,7 @@ let datas = {
         ],
     },
     海外直购:{
-        畅销星品:[
+        狂热销品类:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2450,139 +2252,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        手机数码:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        个护电器:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        生活电器:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        厨房电器:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        "办公/外设":[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        大家电:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        特色专区:[
+        逛直购自营店:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2606,7 +2276,7 @@ let datas = {
         ],
     },
     网易严选:{
-        畅销星品:[
+        家具生活:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2628,7 +2298,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        手机数码:[
+        环球美食:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2650,7 +2320,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        个护电器:[
+        服装鞋包:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2672,7 +2342,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        生活电器:[
+        数码家电:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2694,7 +2364,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        厨房电器:[
+        母婴用品:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2716,51 +2386,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        "办公/外设":[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        大家电:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        特色专区:[
+        美妆个护:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2806,7 +2432,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        手机数码:[
+        美容护肤:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2828,7 +2454,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        个护电器:[
+        个护家具:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2850,95 +2476,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        生活电器:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        厨房电器:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        "办公/外设":[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        大家电:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        特色专区:[
+        母婴专区:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2962,7 +2500,7 @@ let datas = {
         ],
     },
     生鲜:{
-        畅销星品:[
+        新鲜水果:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -2984,7 +2522,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        手机数码:[
+        肉品禽蛋:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -3006,7 +2544,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        个护电器:[
+        水产海鲜:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -3028,7 +2566,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        生活电器:[
+        冷饮冷藏:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -3050,73 +2588,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        厨房电器:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        "办公/外设":[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        大家电:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        特色专区:[
+        蔬菜特产:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -3140,7 +2612,7 @@ let datas = {
         ],
     },
     充值中心:{
-        畅销星品:[
+        "APP Store":[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -3162,7 +2634,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        手机数码:[
+        视频会员:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -3184,7 +2656,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        个护电器:[
+        游戏点卡:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -3206,95 +2678,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        生活电器:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        厨房电器:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        "办公/外设":[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        大家电:[
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-            {
-                imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
-                title:"嘉宝"
-            },
-        ],
-        特色专区:[
+        话费充值:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -3340,7 +2724,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        手机数码:[
+        宠物主粮:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -3362,7 +2746,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        个护电器:[
+        宠物零食:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -3384,7 +2768,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        生活电器:[
+        猫砂类产品:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -3406,7 +2790,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        厨房电器:[
+        宠物医疗保健:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -3428,7 +2812,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        "办公/外设":[
+        宠物美容护洗:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -3450,7 +2834,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        大家电:[
+        宠物日用品:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
@@ -3472,7 +2856,7 @@ let datas = {
                 title:"嘉宝"
             },
         ],
-        特色专区:[
+        宠物玩具:[
             {
                 imgUrl:"https://kaola-haitao.oss.kaolacdn.com/1c12pgcfs69_400_400.jpg?x-oss-process=image/resize,w_240,h_240/quality,q_75/format,webp/ignore-error,1",
                 title:"嘉宝"
