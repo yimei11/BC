@@ -4,17 +4,13 @@
       <el-aside class="aside">
         <el-menu background-color="rgb(50,64,87)" text-color="#fff" :router="true">
           <el-menu-item>
-              <span class="title">ElementUi管理后台</span>
-          </el-menu-item>
-          <el-menu-item index="1">
-              <i class="el-icon-menu"></i>
-              <span class="title">首页</span>
+              <span class="title">后台管理系统</span>
           </el-menu-item>
           <!-- 二级菜单文章管理 -->
           <el-submenu index="2">
             <template slot="title">
-              <i class="el-icon-document-remove"></i>
-              <span>文章管理</span>
+              <i class="el-icon-menu"></i>
+              <span class="title">首页</span>
             </template>
             <el-menu-item-group>
               <el-menu-item index="2-1">文章列表</el-menu-item>
