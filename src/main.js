@@ -3,6 +3,9 @@ import App from "./App.vue";
 import router from "./router";
 import store from "./store";
 import "./plugins/rem.js"
+import Vant from 'vant';
+import 'vant/lib/index.css';
+Vue.use(Vant);
 Vue.config.productionTip = false;
 if(process.env.NODE_ENV==='development'){
   require('./mock')

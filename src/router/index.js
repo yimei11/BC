@@ -9,6 +9,29 @@ const routes = [
     path: "/",
     name: "home",
     component: HomeView,
+    redirect:"/jinxuan",
+    children:[
+      {
+        path:"/jinxuan",
+        component: () =>import("../components/c/home/xuanran/MyJinxan.vue"),
+      },
+      {
+        path:"/tehui",
+        component: () =>import("../components/c/home/xuanran/MyTehui.vue"),
+      },
+      {
+        path:"/meizhuang",
+        component: () =>import("../components/c/home/xuanran/MyMeizhua.vue"),
+      },
+      {
+        path:"/muying",
+        component: () =>import("../components/c/home/xuanran/MyMuying.vue"),
+      },
+      {
+        path:"/shuma",
+        component: () =>import("../components/c/home/xuanran/MyShuma.vue"),
+      },
+    ]
   },
   {
     path: "/about",
