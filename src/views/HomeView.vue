@@ -46,12 +46,28 @@ import MyInput from "../components/c/home/MyInput.vue";
 import TabBar from '../components/c/tabbar/TabBar.vue';
 export default {
   name: "HomeView",
+  data(){
+    return {
+      arr:null
+    }
+  },
   components: {
     MyHome,
     MyInput,
     TabBar
   },
 
+    
+  methods:{
+    // async getdata(){
+    //   let {data} = await axios.get('/api/classify')
+    //   console.log(data);
+    //   this.arr = data
+    // }
+  },
+  created(){
+    // this.getdata()
+  }
 };
 </script>
 <style scoped>

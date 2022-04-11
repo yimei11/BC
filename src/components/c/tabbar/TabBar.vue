@@ -5,7 +5,7 @@
         <router-link to="/"> 标签 </router-link>
       </van-tabbar-item>
       <van-tabbar-item icon="search">
-          <router-link to="/"> 标签 </router-link>
+          <router-link to="/c/classify"> 标签 </router-link>
       </van-tabbar-item>
       <van-tabbar-item icon="friends-o">
           <router-link to="/"> 标签 </router-link>
