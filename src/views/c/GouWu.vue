@@ -6,7 +6,9 @@
       <div class="div2">
           <p>你的购物车空空如也</p>
             <div class="btn">
-          <button>逛逛吧</button>
+          <button>
+            <router-link to="/">逛逛吧</router-link>
+          </button>
         </div>
       </div>
       
