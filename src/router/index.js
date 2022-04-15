@@ -1,6 +1,8 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
 import HomeView from "../views/HomeView.vue"
+import Shops from "../views/b/shops.vue"
+
 Vue.use(VueRouter);
 
 const routes = [
@@ -173,6 +175,12 @@ const routes = [
           import("../components/c/classify/cwsh.vue"),
       },
     ]
+    
+  },
+  {
+    path: "/shops",
+    name: "shops",
+    component: Shops,
   }
 ];
 
