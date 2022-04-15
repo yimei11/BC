@@ -1,1 +1,1 @@
-let Mock = require('mockjs');
+require("./first/mock")
