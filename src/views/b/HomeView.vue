@@ -13,8 +13,8 @@
               <span class="title">首页</span>
             </template>
             <el-menu-item-group>
-              <el-menu-item index="2-1">文章列表</el-menu-item>
-              <el-menu-item index="2-2">多层级路由示例</el-menu-item>
+              <el-menu-item index="2-1">商品列表</el-menu-item>
+              <el-menu-item index="2-2">用户</el-menu-item>
             </el-menu-item-group>
           </el-submenu>
         </el-menu>

@@ -5,30 +5,6 @@ import HomeView from "../views/HomeView.vue"
 Vue.use(VueRouter);
 
 const routes = [
-  // {
-  //   path: "/",
-  //   name: "home",
-  //   component: HomeView,
-  // },
-  {
-    path:"/userb",
-    name:"userb",
-    component:()=>import("@/views/b/UsersbView/UsersbView.vue"),
-    // children:[
-    //   {
-    //     path:"userbcarts/:username",
-    //     name:"userbcarts",
-    //     props:true,
-    //     component:()=>import("@/views/b/UsersbView/UserbCarts.vue")
-    //   }
-    // ]
-  },
-  {
-    path:"/userbcarts/:username",
-    name:"userbcarts",
-    props:true,
-    component:()=>import("@/views/b/UsersbView/UserbCarts.vue")
-  },
   {
     path: "/login",
     name: "MyLogin",
@@ -38,32 +14,32 @@ const routes = [
     path: "/gw",
     name: "gw",
     component: () => import("../views/c/GouWu.vue"),
-  }, 
+  },
   {
     path: "/",
     name: "home",
     component: HomeView,
     redirect: "/jinxuan",
     children: [{
-        path: "/jinxuan",
-        component: () => import("../components/c/home/xuanran/MyJinxan.vue"),
-      },
-      {
-        path: "/tehui",
-        component: () => import("../components/c/home/xuanran/MyTehui.vue"),
-      },
-      {
-        path: "/meizhuang",
-        component: () => import("../components/c/home/xuanran/MyMeizhua.vue"),
-      },
-      {
-        path: "/muying",
-        component: () => import("../components/c/home/xuanran/MyMuying.vue"),
-      },
-      {
-        path: "/shuma",
-        component: () => import("../components/c/home/xuanran/MyShuma.vue"),
-      },
+      path: "/jinxuan",
+      component: () => import("../components/c/home/xuanran/MyJinxan.vue"),
+    },
+    {
+      path: "/tehui",
+      component: () => import("../components/c/home/xuanran/MyTehui.vue"),
+    },
+    {
+      path: "/meizhuang",
+      component: () => import("../components/c/home/xuanran/MyMeizhua.vue"),
+    },
+    {
+      path: "/muying",
+      component: () => import("../components/c/home/xuanran/MyMuying.vue"),
+    },
+    {
+      path: "/shuma",
+      component: () => import("../components/c/home/xuanran/MyShuma.vue"),
+    },
     ]
   },
   {
@@ -195,16 +171,26 @@ const routes = [
     ]
   },
   {
-    path:"/home",
-    component:() => import('../views/b/HomeView.vue'),
-    children:[
+    path: "/home",
+    component: () => import('../views/b/HomeView.vue'),
+    children: [
       {
         path: "/2-1",
         // name: "shops",
         component: () => import('../views/b/shops.vue')
+      },
+      {
+        path: "/2-2",
+        component: () => import('@/views/b/UsersbView/UsersbView.vue'),
       }
     ]
-  }
+  },
+  {
+    path: "/userbcarts/:username",
+    name: "userbcarts",
+    props: true,
+    component: () => import("@/views/b/UsersbView/UserbCarts.vue")
+  },
 ];
 
 const router = new VueRouter({
