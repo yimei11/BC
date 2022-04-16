@@ -1,6 +1,7 @@
 import instance from "@/api";
 import Vue from "vue";
 import Vuex from "vuex";
+import moduleusersb from "./moduleusersb/moduleusersb"
 Vue.use(Vuex);
 
 export default new Vuex.Store({
@@ -37,5 +38,7 @@ export default new Vuex.Store({
     }
 
   },
-  modules: {},
+  modules: {
+    moduleusersb
+  },
 });
