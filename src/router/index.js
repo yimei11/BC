@@ -12,6 +12,25 @@ const routes = [
   //   component: HomeView,
   // },
   {
+    path:"/userb",
+    name:"userb",
+    component:()=>import("@/views/b/UsersbView/UsersbView.vue"),
+    // children:[
+    //   {
+    //     path:"userbcarts/:username",
+    //     name:"userbcarts",
+    //     props:true,
+    //     component:()=>import("@/views/b/UsersbView/UserbCarts.vue")
+    //   }
+    // ]
+  },
+  {
+    path:"/userbcarts/:username",
+    name:"userbcarts",
+    props:true,
+    component:()=>import("@/views/b/UsersbView/UserbCarts.vue")
+  },
+  {
 
     path: "/login",
     name: "MyLogin",
