@@ -58,4 +58,8 @@ export default {
   width: 36px;
   height: 36px;
 }
+.el-main{
+  margin: 0;
+  padding: 0;
+}
 </style>

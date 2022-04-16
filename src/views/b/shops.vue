@@ -5,8 +5,8 @@
       <el-table-column prop="title" label="名字"  align="center"> </el-table-column>
       <el-table-column prop="imgsrc" label="图片"  align="center"> 
         <template v-slot="scope">
-          <img :src="scope.row.imgsrc" alt="" width="90" height="90">
-        </template>
+          <img :src="scope.row.imgsrc" alt="" width="90" height="90">
+        </template>
       </el-table-column>
       <el-table-column prop="price" label="价格"   align="center"> </el-table-column>
       <el-table-column label="操作"  align="center">
@@ -49,9 +49,6 @@
     </el-dialog>
 
   </div>
-
-
-  
 </template>
 
 
@@ -72,9 +69,7 @@ export default {
       }
     };
   },
-  methods: {
-    
-
+  methods: {   
     getshops() {
       this.$store.dispatch("action_getdata");
     },
@@ -101,3 +96,9 @@ export default {
   },
 };
 </script>
+<style scoped>
+.box{
+  height: calc(100vh - 60px);
+  overflow: scroll;
+}
+</style>

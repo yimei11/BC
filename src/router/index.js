@@ -1,7 +1,6 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
 import HomeView from "../views/HomeView.vue"
-import Shops from "../views/b/shops.vue"
 
 Vue.use(VueRouter);
 
@@ -12,7 +11,6 @@ const routes = [
   //   component: HomeView,
   // },
   {
-
     path: "/login",
     name: "MyLogin",
     component: () => import("../views/c/MyLogin.vue")
@@ -54,7 +52,8 @@ const routes = [
     name: "/c/classify",
     component: () => import('../views/c/classifyView.vue'),
     redirect: "/c/classify/品牌墙",
-    children: [{
+    children: [
+      {
         path: "/c/classify/品牌墙",
         name: "ppq",
         component: () =>
@@ -175,12 +174,17 @@ const routes = [
           import("../components/c/classify/cwsh.vue"),
       },
     ]
-    
   },
   {
-    path: "/shops",
-    name: "shops",
-    component: Shops,
+    path:"/home",
+    component:() => import('../views/b/HomeView.vue'),
+    children:[
+      {
+        path: "/2-1",
+        // name: "shops",
+        component: () => import('../views/b/shops.vue')
+      }
+    ]
   }
 ];
 
